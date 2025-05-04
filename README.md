@@ -37,7 +37,7 @@ src/
 ## 🚀 How to run
 1. Clone the repository:
    ```bash
-     git clone https://github.com/tarsila-byte/leap-year-checker.git
+     git clone https://github.com/tarsibytes/leap-year-checker.git
      cd leap-year-checker
    ```
 2. Compile and run the `Main` class located at `src/Main.java`.
